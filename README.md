@@ -1,2 +1,1 @@
-My first Pull request and Merge finally
-Mergeded the Tutedude Branch to main Branch 
+My first Pull request and Mergeded the Tutedude Branch to main Branch 
